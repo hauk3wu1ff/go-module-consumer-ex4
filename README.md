@@ -1,0 +1,1 @@
+# go-module-consumer-ex4
